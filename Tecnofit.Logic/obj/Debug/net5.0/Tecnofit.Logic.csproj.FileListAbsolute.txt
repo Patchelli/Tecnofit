@@ -1,0 +1,16 @@
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.exe
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.deps.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.runtimeconfig.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.runtimeconfig.dev.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\ref\Tecnofit.Logic.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\bin\Debug\net5.0\Tecnofit.Logic.pdb
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.AssemblyInfoInputs.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.AssemblyInfo.cs
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\ref\Tecnofit.Logic.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.pdb
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.genruntimeconfig.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Tecnofit\Tecnofit\Tecnofit.Logic\obj\Debug\net5.0\Tecnofit.Logic.csproj.AssemblyReference.cache

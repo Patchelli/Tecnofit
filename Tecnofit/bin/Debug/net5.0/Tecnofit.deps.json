@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tecnofit/1.0.0": {
+        "dependencies": {
+          "Tecnofit.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Tecnofit.dll": {}
+        }
+      },
+      "Tecnofit.Logic/1.0.0": {
+        "runtime": {
+          "Tecnofit.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tecnofit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tecnofit.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
