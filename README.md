@@ -1,6 +1,5 @@
 # Tecnofit
 - Teste Prático - Tecnofit
-- 
 Prova Técnica de Estágio
 
 1. Coloque abaixo o endereço de seu github ou outra rede de códigos se tiver. Se preferir, liste alguns de seus trabalhos que estão online hoje citando sua participação nos mesmos:
