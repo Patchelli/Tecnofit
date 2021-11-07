@@ -2,16 +2,11 @@
 - Teste Prático - Tecnofit
 Prova Técnica de Estágio
 
-1. Coloque abaixo o endereço de seu github ou outra rede de códigos se tiver. Se preferir, liste alguns de seus trabalhos que estão online hoje citando sua participação nos mesmos:
-
-
-2. Quais seus planos de carreira a médio e longo prazo?
-
 3. Escreva uma função que receba como parâmetro um string e verifique se ele é um palíndromo. A função devolverá VERDADEIRO quando for palíndromo e FALSO quando não for.
 
 Dicionário Aurélio : palíndromo [Do gr. palíndromos.] Adjetivo. 1. Diz-se de frase ou palavra que, ou se leia da esquerda para a direita, ou da direita para a esquerda, tem o mesmo sentido, como, p. ex., radar, osso, ovo.
 
-4. Crie uma função queretorne um array com 6 dezenas aleatórias entre 1 e 60, atentando que os números nunca se repitam e que estejam na ordem crescente.
+4. Crie uma função que retorne um array com 6 dezenas aleatórias entre 1 e 60, atentando que os números nunca se repitam e que estejam na ordem crescente.
 
 5. Conforme entidades de
 finidas abaixo, de fornecedor e produto:
