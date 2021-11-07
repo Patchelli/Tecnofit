@@ -75,6 +75,5 @@ Ao executar o código, qual é a saída impressa na tela?
   x:3 y:-3 z:-2
   x:6 y:4 z:-1
 
-Aguardamos seu retorno para darmos sequência ao processo.
 
 
